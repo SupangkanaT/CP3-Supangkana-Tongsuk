@@ -1,6 +1,0 @@
-a = int(input("Number fist: "))
-b = int(input("Number second: "))
-print("Number fist: ", "+", "Number second: ", a+b)
-print("Number fist: ", "-", "Number second: ", a-b)
-print("Number fist: ", "*", "Number second: ", a*b)
-print("Number fist", "/", "Number second: ", a/b)
